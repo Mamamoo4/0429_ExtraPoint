@@ -1,0 +1,10 @@
+C:\Users\elmer\source\repos\randomSort\randomSort\bin\Debug\randomSort.exe.config
+C:\Users\elmer\source\repos\randomSort\randomSort\bin\Debug\randomSort.exe
+C:\Users\elmer\source\repos\randomSort\randomSort\bin\Debug\randomSort.pdb
+C:\Users\elmer\source\repos\randomSort\randomSort\obj\Debug\randomSort.csproj.AssemblyReference.cache
+C:\Users\elmer\source\repos\randomSort\randomSort\obj\Debug\randomSort.Form1.resources
+C:\Users\elmer\source\repos\randomSort\randomSort\obj\Debug\randomSort.Properties.Resources.resources
+C:\Users\elmer\source\repos\randomSort\randomSort\obj\Debug\randomSort.csproj.GenerateResource.cache
+C:\Users\elmer\source\repos\randomSort\randomSort\obj\Debug\randomSort.csproj.CoreCompileInputs.cache
+C:\Users\elmer\source\repos\randomSort\randomSort\obj\Debug\randomSort.exe
+C:\Users\elmer\source\repos\randomSort\randomSort\obj\Debug\randomSort.pdb
